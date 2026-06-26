@@ -37,6 +37,8 @@ Prediction: **Bugatti Supercar**
 - Koenigsegg: **33.59%**
 - Other Car: **3.35%**
 
+## Confusion Matrix
+
 <img width="421" height="436" alt="image" src="https://github.com/user-attachments/assets/7f30ad03-bcea-440e-b3e0-c604bb518849" />
 
 
