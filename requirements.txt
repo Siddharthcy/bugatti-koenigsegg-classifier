@@ -1,0 +1,7 @@
+fastai
+torch
+torchvision
+fastcore
+fastdownload
+ddgs
+Pillow
